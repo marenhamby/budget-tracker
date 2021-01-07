@@ -25,7 +25,7 @@ Below is a screenshot of the application
 <img src="public\img\tracker-screenshot.PNG" alt="Budget Tracker Page" width="600"/>
 
 ## Credits
-* UNCC Coding Bootcamp- The db.js file and the bulk of the service-worker.js file contents
+* UNCC Coding Bootcamp- The db.js file and the bulk of the service-worker.js file contents as well as the files in the initial commit were all provided from the bootcamp or were used from other bootcamp activities.
 
 
 ## Links
